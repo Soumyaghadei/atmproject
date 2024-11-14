@@ -73,7 +73,6 @@
 - Data Science.
 - Python.
 - Machine Learning
-- Deep Learning
 
 
 
